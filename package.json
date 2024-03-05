@@ -1,0 +1,24 @@
+{
+  "name": "bonter",
+  "version": "1.0.0",
+  "description": "A module for sharing Bahá'í stories with a touch of bonter.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/granceIl90/bonter"
+  },
+  "keywords": [
+    "bahai",
+    "stories",
+    "bonter"
+  ],
+  "author": "granceIl90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/granceIl90/bonter/issues"
+  },
+  "homepage": "https://github.com/granceIl90/bonter"
+}
